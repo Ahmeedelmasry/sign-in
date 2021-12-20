@@ -39,7 +39,7 @@ btn.addEventListener("click" , () => {
                 error.style.fontSize = "18px";
                 error.style.paddingLeft = "100px";
                 setTimeout(() => {
-                    location.href = "../Upload.html"
+                    location.href = "https://ahmeedelmasry.github.io/upload/"
                 }, 1500);
                 return error.innerHTML = "Login Successful";
                 
